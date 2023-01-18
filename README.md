@@ -71,5 +71,5 @@ LANGKAH PERTAMA
 
 > penjelasan  Dengan menggunakan library Python 'requests', codingan mengirim permintaan GET ke URL "https://jadwalsholat.org/jadwal-sholat/monthly.php?id=226"
 
-yang merupakan halaman web yang berisi informasi jadwal sholat. Kemudian, dengan menggunakan library 'BeautifulSoup', codingan menganalisis konten halaman web yang didapat dari permintaan GET tersebut dengan menggunakan parser HTML.
+> yang merupakan halaman web yang berisi informasi jadwal sholat. Kemudian, dengan menggunakan library 'BeautifulSoup', codingan menganalisis konten halaman web yang didapat dari permintaan GET tersebut dengan menggunakan parser HTML.
 
