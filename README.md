@@ -5,7 +5,10 @@
 > langkah pertama downlad dan instal library request terlebih dahulu di CMD(Comand prompt) menggunakan perintah
      
             pip install requests
+            
+PIP merupakan package manager untuk mengelola package dan modul pada python.
 
+• Dengan menggunakan PIP, kita dapat menggunakan library yang tersedia bebas dari direktory package library python.
 
 > lalu instal library beautifulsoap di CMD(Comand prompt) juga dengan menggunakan perintah
 
