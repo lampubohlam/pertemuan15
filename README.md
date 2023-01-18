@@ -14,7 +14,7 @@
 ![Screenshot (247)](https://user-images.githubusercontent.com/116137169/213136474-17dd5503-54b6-495c-b455-623e23b2f276.png)
 
 
-setelah proses selesai maskuklah ke aplikasi coding disini saya menggunakan aplikasi VISUAL STUDIO CODE
+setelah proses selesai masuklah ke aplikasi coding disini saya menggunakan aplikasi VISUAL STUDIO CODE
 
 > lalu ketikan 
                      import requests
@@ -39,7 +39,7 @@ LANGKAH PERTAMA
 ![Screenshot (252)](https://user-images.githubusercontent.com/116137169/213142456-084bcee4-7b82-49bb-ad3d-88d81aeafc57.png)
 
 
-@ pilih yang mau anda tampilkan.Disini saya menggunakan table_navigasi karena ingin menampilkan codingan kota/daerah
+# pilih yang mau anda tampilkan.Disini saya menggunakan table_navigasi karena ingin menampilkan codingan kota/daerah
 
 
 
