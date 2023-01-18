@@ -61,7 +61,7 @@ LANGKAH PERTAMA
               for x in find_data:
                print(x.table)
 
-> hasil run
+> hasil run untuk melihat codingan
 ![Screenshot (250)](https://user-images.githubusercontent.com/116137169/213144775-b0978e8c-fc22-4585-af37-f4b21b794550.png)
 
 
